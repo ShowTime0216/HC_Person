@@ -37,6 +37,7 @@ import butterknife.OnClick;
 /**
  * Created by hsy_name on 16/3/25.
  * 首页
+ * 
  */
 public class HomeFragment extends BaseFragment implements MyScrollView.OnScrollListener, MyScrollView.ScrollViewListener {
     @BindView(R.id.main_address)
