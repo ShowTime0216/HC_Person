@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_f0"
+    android:orientation="vertical">
+
+    <include layout="@layout/tab_title" />
+
+
+    <com.hsy.hc.view.MyScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/white"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:text="IT管家"
+                    android:textColor="@color/black_34"
+                    android:textSize="@dimen/textSize16" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/white_d8"
+
+                />
+
+            <com.hsy.hc.view.MyListView_Sl
+                android:id="@+id/shopping_lv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@color/transparent"
+                android:listSelector="@color/transparent" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/white">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="20dp"
+                    android:singleLine="true"
+                    android:text="满1000元减1元上门费，满10000元减10元上门费"
+                    android:textColor="@color/red_eb3"
+                    android:textSize="@dimen/textSize16" />
+
+                <ImageView
+                    android:id="@+id/image_item"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="12dp"
+                    android:src="@mipmap/item04" />
+
+            </RelativeLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center">
+
+                <View
+                    android:layout_width="0px"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="@color/white_d8" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:text="猜你喜欢"
+                    android:textColor="@color/black_34"
+                    android:textSize="15sp" />
+
+                <View
+                    android:layout_width="0px"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="@color/white_d8" />
+
+            </LinearLayout>
+
+            <com.hsy.hc.view.MyGridView
+                android:id="@+id/shopping_gv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:horizontalSpacing="8dp"
+                android:listSelector="@color/transparent"
+                android:numColumns="2"
+                android:stretchMode="columnWidth"
+                android:verticalSpacing="10dp" />
+
+
+        </LinearLayout>
+
+
+    </com.hsy.hc.view.MyScrollView>
+
+
+</LinearLayout>

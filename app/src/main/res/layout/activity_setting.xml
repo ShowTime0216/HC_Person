@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_f0"
+    android:orientation="vertical">
+
+    <include layout="@layout/tab_title" />
+
+    <RelativeLayout
+        android:id="@+id/setting_help"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/selector_item"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:text="帮助中心"
+            android:textColor="@color/black_34"
+            android:textSize="@dimen/textSize15" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:src="@mipmap/item04" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/white_e8" />
+
+    <RelativeLayout
+        android:id="@+id/setting_opinion"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/selector_item"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:text="意见反馈"
+            android:textColor="@color/black_34"
+            android:textSize="@dimen/textSize15" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:src="@mipmap/item04" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/white_e8" />
+
+    <RelativeLayout
+        android:id="@+id/setting_about"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/selector_item"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:text="关于我们"
+            android:textColor="@color/black_34"
+            android:textSize="@dimen/textSize15" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:src="@mipmap/item04" />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/logout_layout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/selector_btn_red"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="退出登录"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textSize16" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

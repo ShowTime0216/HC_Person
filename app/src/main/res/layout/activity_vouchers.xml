@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_f0"
+    android:orientation="vertical">
+
+    <include layout="@layout/tab_title" />
+
+    <ListView
+        android:id="@+id/vouchers_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/transparent"
+        android:listSelector="@color/transparent">
+
+    </ListView>
+
+    <RelativeLayout
+        android:id="@+id/exchange_layout"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/selector_item"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:text="代金券兑换"
+            android:textColor="@color/black_34"
+            android:textSize="@dimen/textSize15" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:src="@mipmap/item04" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bottom_mine">我的</string>
+    <string name="bottom_order">订单</string>
+    <string name="bottom_first">首页</string>
+</resources>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_30000a63e56f4836e6c35baa3e471dc92eeada7f.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/rxjava-1.1.0_53a433f55a01b2d408f81ef0cc054213a345c915.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta4/de5935a367ba5e343e9df786ac8fc0c7d52b5f0c/converter-gson-2.0.0-beta4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta4_fff06d99539c2ec7481138d4522449d4b63a439f.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.1_00beae3005ca12d62c7ceb95e33abd5f7a3b67d3.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0ed35fb4818dfc3ad8507391b281fc16a61a5782.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_836e8d00121e2b90691d20dde44e039ae4f10e04.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/libs/AMap2DMap_2.9.1_AMapSearch_3.4.0_AMapLocation_2.8.0_20160825.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="42c473934cee323e61d8aa78b5b856f64051a5b4">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/AMap2DMap_2.9.1_AMapSearch_3.4.0_AMapLocation_2.8.0_20160825_de68be5d8e46b02099a64d980954d01a075ca742.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/library-2.4.0_d60c84da6b54d44c9f3564deed01e0d553f93925.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_88e6dee1e75277347e83284ae062c5e7b863a5ec.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4386fe99ba9c253daa6dab77ede7c7af338d6123.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta4/739e00dea1f0ac04fdb9b6160d667e23cc50a791/retrofit-2.0.0-beta4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta4_375cbf2f4ba1e95f7bdd5d067cc0c8ead97e09ae.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/libs/weiboSDKCore_3.1.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e10a6e235c3de0dd2baa3731cc7d8ba40a550406">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/weiboSDKCore_3.1.4_190acf794e4a45aa661a782d6a80fe585e430467.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_68f7b5e1457117f857b3183e957196e3b8f2a88e.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aefbb4b802add81a2bb55654c9464b6770533bfc">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/instant-run_a1317318a0ea43763bf3df8fee6a6392fcb5d15d.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/libs/pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/pinyin4j-2.5.0_7d9c9ec7e832dbff245f70a2a92af8063d81148c.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0-beta4/bd49baf667542c7d06f71e598bdee7fe57272013/adapter-rxjava-2.0.0-beta4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bd49baf667542c7d06f71e598bdee7fe57272013">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.0-beta4_3cec123a5616117641edc2f0ae0dd1b39f7d7d45.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/okio-1.6.0_3e563ff6c0a7a27613545a52053b788c00482a67.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_3737002f1681c30d60455dbf2e508783135b6e72.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/libs/mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/mta-sdk-1.6.2_f49ed4afd3592b36f32b028da05a12429eb8976b.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/libs/open_sdk_r5756.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7f7bf100e53d9099032f113728725e1843e1fbe2">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/open_sdk_r5756_6c8b9830b2ab02292d8a75c990e13de6442f0a81.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/gson-2.6.2_999bcfbc3a9d630ef240d175c53eaebc086e38be.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.1.1_469cee3d1127408b0f6592750dd29f01c5281953.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_72a674b95b4ec2e0a266f6f6fa47e5f31126602d.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1f1ab0eae14e071d3d9da80bb3265cfa85530c6b.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_70b83c2dafd1d641e9e63b08c30698d44b639507.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_dfbbd396883e26defaca7c6f6ea707ba1c80bcdd.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_065569175ef253bfcf048a3a6d54087853be0ae5.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_e099d57c84c3a7f3ab794b8486991d2232a125fb.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_ceb5ec529a0146f5c984013657792b6f74f101a6.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_3bf089184798f8ca804176030adff50d0ca47b2c.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_6824a3daf2b683844d5a429e43d731b863556ef8.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_fd9db76166c10faccee8598ad573654b45b7bd5b.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/libs/libammsdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/libammsdk_84c0fb384f75602833c69cb6d2f0b694444933d2.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_324bfb7dadc9c4346cd482171d2a93ee1d97b62e.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="296bea57e800bca596eb24a731830247c17dfeb0">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_72df3f861d6af173ed41fc03b338948402f3bce5.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/HaiChang/app/build/intermediates/exploded-aar/com.youth.banner/banner/1.2.7/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8da9b7da78339000a702454870b0cbbaf8c2db21">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/com.youth.banner-banner-1.2.7_d7a423317b45ef9c87b44aa66f5d18447f01e567.jar" />
+    </item>
+    <item
+        jar="/Users/liupeng/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/liupeng/HaiChang/app/build/intermediates/pre-dexed/debug/glide-3.7.0_c168be4013814fb899e6580c6cc619947ca674dc.jar" />
+    </item>
+
+</items>

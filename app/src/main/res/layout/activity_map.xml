@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.home.MapActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@color/blue_1b">
+
+        <LinearLayout
+            android:id="@+id/map_address_lin"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="15dp">
+
+            <TextView
+                android:id="@+id/map_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="上海"
+                android:textSize="16sp"
+                android:textColor="@android:color/white"/>
+
+            <ImageView
+                android:layout_width="9dp"
+                android:layout_height="6dp"
+                android:layout_marginLeft="3dp"
+                android:src="@mipmap/ic_launcher"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/map_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="取消"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:textColor="@android:color/white"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="15dp"
+            android:layout_marginEnd="15dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="选择我的位置"
+            android:textSize="18sp"
+            android:textColor="@android:color/white"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+
+        <com.amap.api.maps2d.MapView
+            android:id="@+id/map"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+        </com.amap.api.maps2d.MapView>
+
+        <SearchView
+            android:id="@+id/map_search"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="10dp"
+            android:queryHint="搜索"
+            android:background="@drawable/yuanjiao_map">
+
+        </SearchView>
+
+        <ImageView
+            android:id="@+id/map_center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/location_marker"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+
+        <LinearLayout
+            android:id="@+id/map_nearby1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/map_nearby1_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="@color/blue_1b"
+                android:text="附近"/>
+            <View
+                android:id="@+id/map_nearby_view1"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/blue_1b"></View>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/map_nearby2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/map_nearby2_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="@color/black_5d"
+                android:text="常用地址"/>
+            <View
+                android:id="@+id/map_nearby_view2"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:visibility="invisible"
+                android:background="@color/blue_1b"></View>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/map_viewpage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v4.view.ViewPager>
+</LinearLayout>
